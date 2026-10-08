@@ -15,7 +15,6 @@
 *  Увлекаюсь системным программированием, сетевыми технологиями, информационной безопасностью и автоматизацией.
 *  Создаю собственные решения: от кастомных VPN-протоколов и утилит на C++ до Telegram-ботов и скриптов обработки данных на Python.
 
----
 
 ### 🛠️ Технологический стек
 
@@ -31,7 +30,6 @@
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 </p>
----
 
 ### 🚀 Ключевые проекты
 
@@ -50,16 +48,17 @@
 
 ---
 
-### 📊 Статистика GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chatterbox&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chatterbox&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+### Интересные факты обо мне:
+* Увлекаюсь сим рейсингом (настройка физики и скриптов  в *Assetto Corsa* и т.д ).
+* 3D-печать: Разбираюсь в 3D-принтерах, моделировании и печати3D-печать: Разбираюсь в 3D-принтерах, моделировании и печати
+* Железо и Linux - всегда готов поднять новую виртуальную машину или настроить сервер с нуля.
 
 ---
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/raw/master/media/cyberpunk.gif" width="100%" />
+</p>
+
 
 ### 📫 Как со мной связаться
 
